@@ -1,12 +1,11 @@
 This is a table of contents of my public repositories, for a better navigation. Will be updated </br>
 
 ## Programming languages
-_______________________________________________________________
+
  * #### [C](https://github.com/SharpAdder/C/blob/main/README.md) 
  * #### [Java](https://github.com/SharpAdder/JavaJourney/blob/main/README.md) </br>
 _____________________________________
 ## Projects
-_________________________________
 ### Java
  * #### [Banking app](https://github.com/SharpAdder/JavaJourney/tree/main/banking)
 
