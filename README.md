@@ -9,13 +9,13 @@ _________________________________
  * ### Java
 ### [Banking app](https://github.com/SharpAdder/JavaJourney/tree/main/banking)
 
-* ### C++
-### [atm](https://github.com/SharpAdder/atm-cpp)
-### [rock-paper-scissors](https://github.com/SharpAdder/rock-paper-scisssors-CPP)
+### C++
+  * ### [atm](https://github.com/SharpAdder/atm-cpp)
+  * ### [rock-paper-scissors](https://github.com/SharpAdder/rock-paper-scisssors-CPP)
 
-* ### HTML CSS
-### [edgeledger](https://github.com/SharpAdder/edgeledger)
-### [photography portfolio](https://github.com/SharpAdder/photography-portfolio)
+### HTML CSS
+  * ### [edgeledger](https://github.com/SharpAdder/edgeledger)
+  * ### [photography portfolio](https://github.com/SharpAdder/photography-portfolio)
 
 ### HTML CSS JS
    * ### [resume generator](https://github.com/SharpAdder/Resume-Generator)
