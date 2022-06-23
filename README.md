@@ -19,7 +19,8 @@ _____________________________________
   * #### [photography portfolio](https://github.com/SharpAdder/photography-portfolio)
 
 ### HTML CSS JS
-   * #### [resume generator](https://github.com/SharpAdder/Resume-Generator)
+  * #### [task list](https://github.com/SharpAdder/task-list) 
+  * #### [resume generator](https://github.com/SharpAdder/Resume-Generator)
   * #### [music player](https://github.com/SharpAdder/music-payer)
   * #### [typing game](https://github.com/SharpAdder/typing-game)
   * #### [hang man](https://github.com/SharpAdder/hang-man)
