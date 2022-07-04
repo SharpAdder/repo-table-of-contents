@@ -23,6 +23,6 @@ _____________________________________
   * #### [task list](https://github.com/SharpAdder/task-list) 
   * #### [resume generator](https://github.com/SharpAdder/Resume-Generator)
   * #### [priavte project: music player](https://github.com/SharpAdder/music-payer)
-  * #### [typing game](https://github.com/SharpAdder/typing-game)
+  * #### [private project: typing game](https://github.com/SharpAdder/typing-game)
   * #### [hang man](https://github.com/SharpAdder/hang-man)
   * #### [new year](https://github.com/SharpAdder/new-year)
