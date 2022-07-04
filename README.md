@@ -24,5 +24,5 @@ _____________________________________
   * #### [resume generator](https://github.com/SharpAdder/Resume-Generator)
   * #### [priavte project: music player](https://github.com/SharpAdder/music-payer)
   * #### [private project: typing game](https://github.com/SharpAdder/typing-game)
-  * #### [hang man](https://github.com/SharpAdder/hang-man)
+  * #### [private project: hang man](https://github.com/SharpAdder/hang-man)
   * #### [new year](https://github.com/SharpAdder/new-year)
